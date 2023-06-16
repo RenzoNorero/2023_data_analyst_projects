@@ -1,0 +1,325 @@
+Category,Segment,Scenario,Date,Value
+Urban,Convenience,Forecast,12/1/2022,120710.4406
+Urban,Convenience,Forecast,11/1/2022,129923.2814
+Urban,Convenience,Forecast,10/1/2022,169468.7696
+Urban,Convenience,Forecast,9/1/2022,219703.7363
+Urban,Convenience,Forecast,8/1/2022,333460.8569
+Urban,Convenience,Forecast,7/1/2022,345230.9632
+Urban,Convenience,Forecast,6/1/2022,262211.9656
+Urban,Convenience,Forecast,5/1/2022,276318.0256
+Urban,Convenience,Forecast,4/1/2022,351049.3899
+Urban,Convenience,Forecast,3/1/2022,343660.2303
+Urban,Convenience,Forecast,2/1/2022,148965.7223
+Urban,Convenience,Forecast,1/1/2022,121859.4459
+Urban,Convenience,Budget,12/1/2022,125587.6301
+Urban,Convenience,Budget,11/1/2022,127350.5431
+Urban,Convenience,Budget,10/1/2022,161079.2266
+Urban,Convenience,Budget,9/1/2022,221968.7233
+Urban,Convenience,Budget,8/1/2022,343268.5292
+Urban,Convenience,Budget,7/1/2022,327806.3502
+Urban,Convenience,Budget,6/1/2022,261009.5613
+Urban,Convenience,Budget,5/1/2022,263033.5052
+Urban,Convenience,Budget,4/1/2022,330989.4247
+Urban,Convenience,Budget,3/1/2022,316968.1736
+Urban,Convenience,Budget,2/1/2022,152101.8428
+Urban,Convenience,Budget,1/1/2022,124372.0118
+Urban,Convenience,Budget,12/1/2021,117052.5485
+Urban,Convenience,Budget,11/1/2021,135068.7579
+Urban,Convenience,Budget,10/1/2021,161079.2266
+Urban,Convenience,Budget,9/1/2021,235558.6451
+Urban,Convenience,Budget,8/1/2021,343268.5292
+Urban,Convenience,Budget,7/1/2021,348508.4103
+Urban,Convenience,Budget,6/1/2021,257019.6494
+Urban,Convenience,Budget,5/1/2021,255062.7929
+Urban,Convenience,Budget,4/1/2021,327646.0972
+Urban,Convenience,Budget,3/1/2021,346996.7374
+Urban,Convenience,Budget,2/1/2021,157979.4357
+Urban,Convenience,Budget,1/1/2021,129397.1436
+Urban,Extreme,Forecast,12/1/2022,20868.84072
+Urban,Extreme,Forecast,11/1/2022,46971.33037
+Urban,Extreme,Forecast,10/1/2022,70793.02886
+Urban,Extreme,Forecast,9/1/2022,11957.87523
+Urban,Extreme,Forecast,8/1/2022,10668.924
+Urban,Extreme,Forecast,7/1/2022,14286.02201
+Urban,Extreme,Forecast,6/1/2022,5340.80274
+Urban,Extreme,Forecast,5/1/2022,7842.956888
+Urban,Extreme,Forecast,4/1/2022,12343.00573
+Urban,Extreme,Forecast,3/1/2022,17582.20144
+Urban,Extreme,Forecast,2/1/2022,14749.0644
+Urban,Extreme,Forecast,1/1/2022,18247.11252
+Urban,Extreme,Budget,12/1/2022,20868.84072
+Urban,Extreme,Budget,11/1/2022,47574.88219
+Urban,Extreme,Budget,10/1/2022,73028.5982
+Urban,Extreme,Budget,9/1/2022,12323.93264
+Urban,Extreme,Budget,8/1/2022,10668.924
+Urban,Extreme,Budget,7/1/2022,14851.80506
+Urban,Extreme,Budget,6/1/2022,5392.156613
+Urban,Extreme,Budget,5/1/2022,7462.230825
+Urban,Extreme,Budget,4/1/2022,12709.62966
+Urban,Extreme,Budget,3/1/2022,17247.30236
+Urban,Extreme,Budget,2/1/2022,13603.506
+Urban,Extreme,Budget,1/1/2022,17018.94149
+Urban,Extreme,Budget,12/1/2021,19263.54528
+Urban,Extreme,Budget,11/1/2021,45547.95672
+Urban,Extreme,Budget,10/1/2021,78244.92664
+Urban,Extreme,Budget,9/1/2021,12281.52141
+Urban,Extreme,Budget,8/1/2021,11446.86638
+Urban,Extreme,Budget,7/1/2021,14710.3593
+Urban,Extreme,Budget,6/1/2021,5340.80274
+Urban,Extreme,Budget,5/1/2021,7842.956888
+Urban,Extreme,Budget,4/1/2021,11976.3818
+Urban,Extreme,Budget,3/1/2021,16075.1556
+Urban,Extreme,Budget,2/1/2021,14749.0644
+Urban,Extreme,Budget,1/1/2021,18422.56553
+Urban,Moderation,Forecast,12/1/2022,251155.7122
+Urban,Moderation,Forecast,11/1/2022,322984.2215
+Urban,Moderation,Forecast,10/1/2022,362385.6466
+Urban,Moderation,Forecast,9/1/2022,529188.1249
+Urban,Moderation,Forecast,8/1/2022,675144.698
+Urban,Moderation,Forecast,7/1/2022,642300.7198
+Urban,Moderation,Forecast,6/1/2022,651766.3129
+Urban,Moderation,Forecast,5/1/2022,644168.8923
+Urban,Moderation,Forecast,4/1/2022,714907.2475
+Urban,Moderation,Forecast,3/1/2022,713162.972
+Urban,Moderation,Forecast,2/1/2022,346228.3122
+Urban,Moderation,Forecast,1/1/2022,292661.6849
+Urban,Moderation,Budget,12/1/2022,243695.6416
+Urban,Moderation,Budget,11/1/2022,322984.2215
+Urban,Moderation,Budget,10/1/2022,351292.2084
+Urban,Moderation,Budget,9/1/2022,503746.3881
+Urban,Moderation,Budget,8/1/2022,682251.4843
+Urban,Moderation,Budget,7/1/2022,648597.7856
+Urban,Moderation,Budget,6/1/2022,664630.6724
+Urban,Moderation,Budget,5/1/2022,637527.9758
+Urban,Moderation,Budget,4/1/2022,767584.6236
+Urban,Moderation,Budget,3/1/2022,741407.0501
+Urban,Moderation,Budget,2/1/2022,342833.917
+Urban,Moderation,Budget,1/1/2022,301269.3815
+Urban,Moderation,Budget,12/1/2021,241208.9513
+Urban,Moderation,Budget,11/1/2021,310303.7463
+Urban,Moderation,Budget,10/1/2021,373242.5082
+Urban,Moderation,Budget,9/1/2021,534276.4723
+Urban,Moderation,Budget,8/1/2021,746212.561
+Urban,Moderation,Budget,7/1/2021,634640.5502
+Urban,Moderation,Budget,6/1/2021,645182.8148
+Urban,Moderation,Budget,5/1/2021,697296.2236
+Urban,Moderation,Budget,4/1/2021,790160.642
+Urban,Moderation,Budget,3/1/2021,713162.972
+Urban,Moderation,Budget,2/1/2021,356411.4978
+Urban,Moderation,Budget,1/1/2021,289792.4527
+Urban,Regular,Forecast,12/1/2022,689.7969225
+Urban,Regular,Forecast,11/1/2022,427.4372025
+Urban,Regular,Forecast,10/1/2022,2989.28376
+Urban,Regular,Forecast,9/1/2022,701.48442
+Urban,Regular,Forecast,8/1/2022,731.3103
+Urban,Regular,Forecast,7/1/2022,1381.096238
+Urban,Regular,Forecast,6/1/2022,151.17039
+Urban,Regular,Forecast,5/1/2022,682.89984
+Urban,Regular,Forecast,4/1/2022,1028.908721
+Urban,Regular,Forecast,3/1/2022,395.11395
+Urban,Regular,Forecast,2/1/2022,451.677761
+Urban,Regular,Forecast,1/1/2022,405.25947
+Urban,Regular,Budget,12/1/2022,676.1375775
+Urban,Regular,Budget,11/1/2022,427.4372025
+Urban,Regular,Budget,10/1/2022,3060.909967
+Urban,Regular,Budget,9/1/2022,701.48442
+Urban,Regular,Budget,8/1/2022,682.55628
+Urban,Regular,Budget,7/1/2022,1289.023155
+Urban,Regular,Budget,6/1/2022,148.08528
+Urban,Regular,Budget,5/1/2022,682.89984
+Urban,Regular,Budget,4/1/2022,1036.230458
+Urban,Regular,Budget,3/1/2022,407.0871
+Urban,Regular,Budget,2/1/2022,465.7926
+Urban,Regular,Budget,1/1/2022,402.0915735
+Urban,Regular,Budget,12/1/2021,676.1375775
+Urban,Regular,Budget,11/1/2021,440.389845
+Urban,Regular,Budget,10/1/2021,3031.192395
+Urban,Regular,Budget,9/1/2021,667.7592075
+Urban,Regular,Budget,8/1/2021,668.62656
+Urban,Regular,Budget,7/1/2021,1354.789643
+Urban,Regular,Budget,6/1/2021,148.08528
+Urban,Regular,Budget,5/1/2021,711.4347115
+Urban,Regular,Budget,4/1/2021,1056.749873
+Urban,Regular,Budget,3/1/2021,387.13185
+Urban,Regular,Budget,2/1/2021,429.9624
+Urban,Regular,Budget,1/1/2021,417.29688
+Mix,All Season,Forecast,12/1/2022,11442.14474
+Mix,All Season,Forecast,11/1/2022,14120.78693
+Mix,All Season,Forecast,10/1/2022,18109.64804
+Mix,All Season,Forecast,9/1/2022,26737.36704
+Mix,All Season,Forecast,8/1/2022,37439.93736
+Mix,All Season,Forecast,7/1/2022,45563.53694
+Mix,All Season,Forecast,6/1/2022,29301.60844
+Mix,All Season,Forecast,5/1/2022,21924.29736
+Mix,All Season,Forecast,4/1/2022,31585.12434
+Mix,All Season,Forecast,3/1/2022,29356.78568
+Mix,All Season,Forecast,2/1/2022,13223.37744
+Mix,All Season,Forecast,1/1/2022,11388.23805
+Mix,All Season,Budget,12/1/2022,11206.22423
+Mix,All Season,Budget,11/1/2022,14536.10419
+Mix,All Season,Budget,10/1/2022,17736.25324
+Mix,All Season,Budget,9/1/2022,26081.97554
+Mix,All Season,Budget,8/1/2022,40559.93214
+Mix,All Season,Budget,7/1/2022,46010.23828
+Mix,All Season,Budget,6/1/2022,30509.92219
+Mix,All Season,Budget,5/1/2022,21924.29736
+Mix,All Season,Budget,4/1/2022,33499.3743
+Mix,All Season,Budget,3/1/2022,29659.43295
+Mix,All Season,Budget,2/1/2022,12587.63814
+Mix,All Season,Budget,1/1/2022,12586.99995
+Mix,All Season,Budget,12/1/2021,11442.14474
+Mix,All Season,Budget,11/1/2021,14397.6651
+Mix,All Season,Budget,10/1/2021,19603.22726
+Mix,All Season,Budget,9/1/2021,25815.83293
+Mix,All Season,Budget,8/1/2021,39389.9341
+Mix,All Season,Budget,7/1/2021,43330.03022
+Mix,All Season,Budget,6/1/2021,28697.45156
+Mix,All Season,Budget,5/1/2021,22872.73862
+Mix,All Season,Budget,4/1/2021,30627.99936
+Mix,All Season,Budget,3/1/2021,31172.66933
+Mix,All Season,Budget,2/1/2021,13223.37744
+Mix,All Season,Budget,1/1/2021,12227.37138
+Mix,Productivity,Forecast,12/1/2022,19538.89812
+Mix,Productivity,Forecast,11/1/2022,17597.55926
+Mix,Productivity,Forecast,10/1/2022,22835.18396
+Mix,Productivity,Forecast,9/1/2022,25557.336
+Mix,Productivity,Forecast,8/1/2022,34963.40484
+Mix,Productivity,Forecast,7/1/2022,17727.72593
+Mix,Productivity,Forecast,6/1/2022,73468.33494
+Mix,Productivity,Forecast,5/1/2022,84037.90264
+Mix,Productivity,Forecast,4/1/2022,87986.91434
+Mix,Productivity,Forecast,3/1/2022,61263.51735
+Mix,Productivity,Forecast,2/1/2022,22939.77168
+Mix,Productivity,Forecast,1/1/2022,18791.90523
+Mix,Productivity,Budget,12/1/2022,19538.89812
+Mix,Productivity,Budget,11/1/2022,15921.60124
+Mix,Productivity,Budget,10/1/2022,21795.01947
+Mix,Productivity,Budget,9/1/2022,26356.00275
+Mix,Productivity,Budget,8/1/2022,31937.72558
+Mix,Productivity,Budget,7/1/2022,16377.04205
+Mix,Productivity,Budget,6/1/2022,67110.49826
+Mix,Productivity,Budget,5/1/2022,80836.45873
+Mix,Productivity,Budget,4/1/2022,85873.30164
+Mix,Productivity,Budget,3/1/2022,65777.67126
+Mix,Productivity,Budget,2/1/2022,22939.77168
+Mix,Productivity,Budget,1/1/2022,18448.3297
+Mix,Productivity,Budget,12/1/2021,18021.3138
+Mix,Productivity,Budget,11/1/2021,17094.77186
+Mix,Productivity,Budget,10/1/2021,21965.27219
+Mix,Productivity,Budget,9/1/2021,27687.114
+Mix,Productivity,Budget,8/1/2021,34963.40484
+Mix,Productivity,Budget,7/1/2021,16921.11577
+Mix,Productivity,Budget,6/1/2021,71173.3315
+Mix,Productivity,Budget,5/1/2021,80291.53822
+Mix,Productivity,Budget,4/1/2021,84997.04346
+Mix,Productivity,Budget,3/1/2021,65132.79213
+Mix,Productivity,Budget,2/1/2021,22700.81573
+Mix,Productivity,Budget,1/1/2021,19160.37396
+Accessory,Accessory,Forecast,12/1/2022,44190.57888
+Accessory,Accessory,Forecast,11/1/2022,50598.81566
+Accessory,Accessory,Forecast,10/1/2022,54740.5709
+Accessory,Accessory,Forecast,9/1/2022,64442.9079
+Accessory,Accessory,Forecast,8/1/2022,98285.91328
+Accessory,Accessory,Forecast,7/1/2022,61545.41064
+Accessory,Accessory,Forecast,6/1/2022,91299.65402
+Accessory,Accessory,Forecast,5/1/2022,120579.7261
+Accessory,Accessory,Forecast,4/1/2022,103436.9095
+Accessory,Accessory,Forecast,3/1/2022,93558.89718
+Accessory,Accessory,Forecast,2/1/2022,58793.20125
+Accessory,Accessory,Forecast,1/1/2022,51771.46338
+Accessory,Accessory,Budget,12/1/2022,44650.89741
+Accessory,Accessory,Budget,11/1/2022,47651.31184
+Accessory,Accessory,Budget,10/1/2022,57562.24982
+Accessory,Accessory,Budget,9/1/2022,61940.2707
+Accessory,Accessory,Budget,8/1/2022,94148.85816
+Accessory,Accessory,Budget,7/1/2022,63468.70472
+Accessory,Accessory,Budget,6/1/2022,94988.52893
+Accessory,Accessory,Budget,5/1/2022,124810.8389
+Accessory,Accessory,Budget,4/1/2022,98415.70032
+Accessory,Accessory,Budget,3/1/2022,95393.38536
+Accessory,Accessory,Budget,2/1/2022,61792.85438
+Accessory,Accessory,Budget,1/1/2022,52269.26591
+Accessory,Accessory,Budget,12/1/2021,47412.80859
+Accessory,Accessory,Budget,11/1/2021,48633.81311
+Accessory,Accessory,Budget,10/1/2021,56950.6131
+Accessory,Accessory,Budget,9/1/2021,63817.2486
+Accessory,Accessory,Budget,8/1/2021,96110.29271
+Accessory,Accessory,Budget,7/1/2021,60904.31261
+Accessory,Accessory,Budget,6/1/2021,95910.74766
+Accessory,Accessory,Budget,5/1/2021,124717.6981
+Accessory,Accessory,Budget,4/1/2021,95402.9748
+Accessory,Accessory,Budget,3/1/2021,94476.14127
+Accessory,Accessory,Budget,2/1/2021,56993.40938
+Accessory,Accessory,Budget,1/1/2021,52269.26591
+Rural,Select,Forecast,12/1/2022,311.708775
+Rural,Select,Forecast,11/1/2022,172.2601125
+Rural,Select,Forecast,10/1/2022,662.79129
+Rural,Select,Forecast,9/1/2022,314.98992
+Rural,Select,Forecast,8/1/2022,311.708775
+Rural,Select,Forecast,7/1/2022,334.67679
+Rural,Select,Forecast,6/1/2022,167.338395
+Rural,Select,Forecast,5/1/2022,506.9369025
+Rural,Select,Forecast,4/1/2022,167.338395
+Rural,Select,Forecast,3/1/2022,497.0934675
+Rural,Select,Forecast,2/1/2022,155.8543875
+Rural,Select,Forecast,1/1/2022,337.957935
+Rural,Select,Budget,12/1/2022,324.833355
+Rural,Select,Budget,11/1/2022,172.2601125
+Rural,Select,Budget,10/1/2022,623.41755
+Rural,Select,Budget,9/1/2022,324.833355
+Rural,Select,Budget,8/1/2022,314.98992
+Rural,Select,Budget,7/1/2022,318.271065
+Rural,Select,Budget,6/1/2022,157.49496
+Rural,Select,Budget,5/1/2022,477.4065975
+Rural,Select,Budget,4/1/2022,162.4166775
+Rural,Select,Budget,3/1/2022,477.4065975
+Rural,Select,Budget,2/1/2022,155.8543875
+Rural,Select,Budget,1/1/2022,318.271065
+Rural,Select,Budget,12/1/2021,318.271065
+Rural,Select,Budget,11/1/2021,172.2601125
+Rural,Select,Budget,10/1/2021,643.10442
+Rural,Select,Budget,9/1/2021,344.520225
+Rural,Select,Budget,8/1/2021,318.271065
+Rural,Select,Budget,7/1/2021,311.708775
+Rural,Select,Budget,6/1/2021,167.338395
+Rural,Select,Budget,5/1/2021,516.7803375
+Rural,Select,Budget,4/1/2021,157.49496
+Rural,Select,Budget,3/1/2021,467.5631625
+Rural,Select,Budget,2/1/2021,168.9789675
+Rural,Select,Budget,1/1/2021,334.67679
+Youth,Youth,Forecast,12/1/2022,3931.03074
+Youth,Youth,Forecast,11/1/2022,2891.005425
+Youth,Youth,Forecast,10/1/2022,5397.748965
+Youth,Youth,Forecast,9/1/2022,6437.887575
+Youth,Youth,Forecast,8/1/2022,10355.73462
+Youth,Youth,Forecast,7/1/2022,11738.08624
+Youth,Youth,Forecast,6/1/2022,12144.36878
+Youth,Youth,Forecast,5/1/2022,8061.734728
+Youth,Youth,Forecast,4/1/2022,9978.605963
+Youth,Youth,Forecast,3/1/2022,9130.579973
+Youth,Youth,Forecast,2/1/2022,4669.62426
+Youth,Youth,Forecast,1/1/2022,2757.295065
+Youth,Youth,Budget,12/1/2022,3796.895518
+Youth,Youth,Budget,11/1/2022,3066.217875
+Youth,Youth,Budget,10/1/2022,5503.58718
+Youth,Youth,Budget,9/1/2022,6836.107425
+Youth,Youth,Budget,8/1/2022,9746.57376
+Youth,Youth,Budget,7/1/2022,12479.43905
+Youth,Youth,Budget,6/1/2022,12505.0926
+Youth,Youth,Budget,5/1/2022,8170.086015
+Youth,Youth,Budget,4/1/2022,11028.98554
+Youth,Youth,Budget,3/1/2022,9219.22638
+Youth,Youth,Budget,2/1/2022,4532.28237
+Youth,Youth,Budget,1/1/2022,2685.42206
+Youth,Youth,Budget,12/1/2021,3628.64376
+Youth,Youth,Budget,11/1/2021,3066.217875
+Youth,Youth,Budget,10/1/2021,5311.124644
+Youth,Youth,Budget,9/1/2021,6437.887575
+Youth,Youth,Budget,8/1/2021,9645.04695
+Youth,Youth,Budget,7/1/2021,12403.99951
+Youth,Youth,Budget,6/1/2021,11903.88623
+Youth,Youth,Budget,5/1/2021,7929.789368
+Youth,Youth,Budget,4/1/2021,10608.83371
+Youth,Youth,Budget,3/1/2021,9307.872788
+Youth,Youth,Budget,2/1/2021,4394.94048
+Youth,Youth,Budget,1/1/2021,2569.90608
