@@ -1,0 +1,552 @@
+﻿country_name,death_cause,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+Argentina,Diseases of the digestive system,47.8,47.9,48.4,49.3,51.1,55.9,56.7,51.8,51.2,49.9,
+Argentina,Diseases of the nervous system,16.2,14.9,15.8,17,15.7,17.6,18.6,16.4,15,15.7,
+Argentina,Diseases of the circulatory system,392.8,377.9,363.9,350.5,336.7,349.1,358.6,335.6,324,323.6,
+Argentina,Assault,4.6,4.3,5.1,5.1,5.5,5.3,4.9,4,3.8,3.7,
+Argentina,"Congenital malformations, deformations and chromosomal abnormalities",4.7,4.6,4.4,4.5,4.7,4.4,4.1,3.9,3.6,3.4,
+Argentina,Diseases of the respiratory system,197.5,195.1,187.2,195.6,199,208.3,229.9,225.5,209.3,207.1,
+Argentina,Neoplasms,225.5,219.5,220.1,218.6,217.9,221.9,217.9,213.6,204.4,204.2,
+Argentina,Tuberculosis,1.8,2.1,1.9,1.9,1.8,1.9,1.9,1.8,1.8,1.7,
+Argentina,Ischaemic heart diseases,77,75.7,75.3,74.2,71.8,78.6,80.7,76.1,73.7,71.6,
+Argentina,HIV-AIDS,3.7,3.6,4,3.9,3.9,4.2,3.9,3.8,3.5,3.2,
+Argentina,Intentional self-harm,7.9,7.6,8.4,7.6,8.1,7.9,7.6,7.8,8,7.8,
+Argentina,Accidents,28.9,29.8,30.3,31,29,29.3,24.7,24.7,23.8,21.1,
+Australia,Neoplasms,224.3,222.2,215.1,214.7,209.6,212.8,206.4,200.8,201.1,204.2,193.2
+Australia,Accidents,26.8,28.8,27.8,27,29.4,30.4,31.4,30.6,30.4,31.8,30.3
+Australia,Diseases of the respiratory system,62.3,64,65.8,60.1,64.6,65.4,65.6,69.9,60.9,66.1,50.1
+Australia,Tuberculosis,0.3,0.3,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.1
+Australia,Diseases of the nervous system,32,34.3,34,36.1,38,38.7,39.1,39.8,38.9,41.2,39.3
+Australia,Intentional self-harm,11,10.9,11.5,11.5,12.6,13.2,12.2,13.6,13,13.3,12.4
+Australia,Ischaemic heart diseases,112.4,109.2,99,94.4,93.7,89.9,84.4,80.3,74.1,74.1,65.4
+Australia,Diseases of the digestive system,26.2,26.2,25.7,25.7,25.4,25.8,25.5,25.6,25,26.1,25.7
+Australia,"Congenital malformations, deformations and chromosomal abnormalities",2.7,2.4,2.4,2.6,2.6,2.4,2.4,2.6,2.5,2.7,2.4
+Australia,Assault,1.1,1.1,1.2,1.1,1.2,1.2,1.1,0.9,1,1,0.9
+Australia,Diseases of the circulatory system,235.6,231.7,216.8,208.2,209.1,206,194.2,187,175.9,175.5,158.6
+Australia,HIV-AIDS,0.3,0.4,0.3,0.3,0.3,0.2,0.3,0.2,0.1,0.2,0.2
+Austria,Accidents,28.3,27.2,28.4,26.7,25.4,26.9,24.3,24.9,24.9,27,29
+Austria,Neoplasms,228.4,228.1,227.6,221.4,221.1,215.2,210.9,208,207.8,203.7,204.2
+Austria,Assault,0.5,0.5,0.4,0.4,0.4,0.6,0.5,0.5,0.6,0.5,0.4
+Austria,HIV-AIDS,0.5,0.5,0.4,0.6,0.5,0.4,0.4,0.3,0.3,0.4,0.4
+Austria,"Congenital malformations, deformations and chromosomal abnormalities",3.4,3.3,3,3.3,3.4,3.2,3.2,2.9,3.1,3,3
+Austria,Ischaemic heart diseases,163.9,155.5,157.4,152.9,143.7,147.2,136.4,133.7,130,123.5,122.4
+Austria,Diseases of the respiratory system,46.4,43.7,42,41.3,38,44.7,42.7,51.2,52.9,49.4,44.4
+Austria,Diseases of the nervous system,27.3,26.5,28.5,30.3,27.1,28.7,28.1,30.8,31.8,31.4,31.3
+Austria,Diseases of the digestive system,34.9,32.8,32.5,31.9,28.7,29.4,28.9,28.7,27.3,29,30.2
+Austria,Intentional self-harm,14.4,14.6,14.2,14.2,14.3,13.4,12.7,12.8,12.5,11.4,10.8
+Austria,Tuberculosis,0.4,0.6,0.4,0.7,0.7,0.6,0.4,0.3,0.5,0.4,0.4
+Austria,Diseases of the circulatory system,363,345.2,353.6,349.6,331.7,348.7,320.3,314.6,306.5,296.3,294.6
+Belgium,Intentional self-harm,18.2,18.6,17.9,16.6,16.5,16.2,16.3,14.8,15.2,,
+Belgium,Ischaemic heart diseases,78.6,70.9,68.4,64.6,59.4,59.4,54.7,53.4,50.1,,
+Belgium,Diseases of the circulatory system,270.7,253.4,250,242.2,226,232,216.7,211,200,,
+Belgium,Assault,1.1,1.3,1.2,1,1,1.1,1.1,1,1,,
+Belgium,"Congenital malformations, deformations and chromosomal abnormalities",2.4,2,2.6,2.4,2.2,1.9,2.2,2,2.6,,
+Belgium,Neoplasms,243.8,239.9,236,234,228.2,225.5,221.5,215.9,207.6,,
+Belgium,Diseases of the nervous system,39.1,38.4,43.3,42.7,38.6,41.8,40.5,42.2,40.6,,
+Belgium,Accidents,35.9,34.6,36.1,34.1,32.5,34.8,32,31.1,33.6,,
+Belgium,Tuberculosis,0.5,0.4,0.5,0.4,0.3,0.4,0.2,0.3,0.3,,
+Belgium,Diseases of the respiratory system,91.3,85.8,90.2,88.3,77,88.1,81.8,87.2,90.7,,
+Belgium,HIV-AIDS,0.5,0.4,0.4,0.5,0.3,0.3,0.3,0.3,0.2,,
+Belgium,Diseases of the digestive system,37.8,38.6,40.3,36.9,34.2,36.9,36.6,36.2,36.4,,
+Brazil,HIV-AIDS,6.8,6.7,6.6,6.8,6.7,6.7,6.5,6,5.7,5.4,
+Brazil,Intentional self-harm,5.6,5.7,5.9,5.9,5.8,6.1,6.1,6.5,6.5,6.7,
+Brazil,Assault,25.3,24.9,26.4,26.3,27.1,26.3,27.1,27.8,24.4,19.1,
+Brazil,Diseases of the circulatory system,369.7,364.4,348.1,341.9,330.3,329.1,343.2,326.7,311.9,305.7,
+Brazil,Accidents,46.4,46.7,46.7,46,46.9,44.1,44.7,43.5,41.3,39.9,
+Brazil,Diseases of the nervous system,27.8,28.7,29.7,30.3,31.9,33.5,37.1,37.6,38.1,40.7,
+Brazil,Tuberculosis,4.1,4,3.7,3.7,3.5,3.5,3.3,3.3,3.1,3.1,
+Brazil,Diseases of the digestive system,55.3,55.2,54.3,53.9,53,52.9,54.5,52.8,52.2,51.7,
+Brazil,Diseases of the respiratory system,140.3,143.5,137.9,143.7,140.9,148.2,158.8,152.2,144,144.4,
+Brazil,Ischaemic heart diseases,108.3,107.9,104.9,103.5,100.9,101.4,104.9,99.9,96.1,94.3,
+Brazil,"Congenital malformations, deformations and chromosomal abnormalities",4.3,4.6,4.6,4.7,4.7,4.7,4.6,4.6,4.7,4.8,
+Brazil,Neoplasms,178.9,177.9,178.7,177.8,176.7,177.7,180,179,177.5,177.1,
+Bulgaria,Accidents,23.7,22.4,24,22.8,24.7,24.9,23.3,22.6,21.6,21.7,
+Bulgaria,Diseases of the digestive system,40.9,40.5,43.6,44.5,47.1,47,47.8,47.2,47.7,49.8,
+Bulgaria,Diseases of the nervous system,13.1,13.1,14.9,12.5,13.3,14.3,12.5,11.1,11.7,12.6,
+Bulgaria,HIV-AIDS,0.1,0.1,0.2,0.1,0.2,0.2,0.3,0.3,0.2,0.2,
+Bulgaria,Diseases of the respiratory system,54,52.1,51,44.6,49.3,50.6,54.9,56.3,59.5,51,
+Bulgaria,Diseases of the circulatory system,1007.7,962.1,935.9,877.2,915.3,912,884.5,895.8,870,840.6,
+Bulgaria,"Congenital malformations, deformations and chromosomal abnormalities",2.6,2.3,2.4,2.6,2.1,2.6,2.2,1.8,1.7,1.9,
+Bulgaria,Intentional self-harm,10.9,9.8,11.1,9.2,9.2,8.7,8.6,8.9,8.3,7.4,
+Bulgaria,Neoplasms,204.6,205.6,220.2,218.1,215.9,214.4,204.8,205.4,205.5,214.3,
+Bulgaria,Tuberculosis,2.5,2.1,2.1,1.9,1.6,1.4,1.4,1.2,1.2,1.2,
+Bulgaria,Ischaemic heart diseases,178.1,166.1,179.5,162.2,159.7,163.4,153.5,159,148,159.2,
+Bulgaria,Assault,1.5,1.2,1.5,1.2,1.3,1.3,1,1.1,1.1,0.9,
+Canada,Diseases of the digestive system,29.9,30,29.2,30.2,32.1,30.1,30.6,30.1,30.7,31.1,
+Canada,Assault,1.5,1.6,1.4,1.2,1.2,1.2,1.1,1.2,1,1,
+Canada,"Congenital malformations, deformations and chromosomal abnormalities",2.7,2.7,2.9,2.9,2.9,2.8,2.9,2.7,2.9,2.7,
+Canada,Diseases of the respiratory system,66.8,70.3,66.8,69.1,72.2,70.4,64.3,67.7,70,63.7,
+Canada,Ischaemic heart diseases,111.2,105.6,101.1,99.7,103.5,94.2,88.3,87.1,83.1,79.5,
+Canada,Diseases of the circulatory system,215.9,208.7,199.9,201.7,213.9,195.1,188.2,188.2,182.8,178.4,
+Canada,Tuberculosis,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.2,
+Canada,Intentional self-harm,11.3,10.9,11,11.2,11.7,12,10.7,11.1,10.1,10.5,
+Canada,Neoplasms,233.3,231.3,227.9,225.3,231.6,218.2,218,213.8,208.5,204.7,
+Canada,Accidents,33,32.9,32.7,32.9,34.7,32.6,33.8,36.8,34.5,35.1,
+Canada,HIV-AIDS,1,0.9,0.8,0.7,0.6,0.5,0.5,0.4,0.4,0.3,
+Canada,Diseases of the nervous system,38.6,38.1,37.4,37.8,40.8,37.7,38.3,39.4,38,37,
+Chile,Diseases of the digestive system,64.4,62,61.6,61,60,59.7,57.8,57.1,56,,
+Chile,Diseases of the nervous system,32.4,31.6,32.3,33.9,31.6,32.8,30.1,31,31.8,,
+Chile,HIV-AIDS,2.7,2.9,2.7,3.1,3,3.1,3.3,2.7,2.3,,
+Chile,"Congenital malformations, deformations and chromosomal abnormalities",4.3,4.7,4.7,4.6,4.9,4.6,4.7,4.2,3.9,,
+Chile,Tuberculosis,5.1,4.2,4.2,3.9,3.1,3.6,3,2.9,2.4,,
+Chile,Ischaemic heart diseases,78.9,69.3,74.1,68.9,69.6,70.2,65,63.7,59,,
+Chile,Neoplasms,231.1,228.1,228.6,222.6,219.3,218.9,210.9,206.2,201.6,,
+Chile,Diseases of the respiratory system,108.8,95,101.8,98.9,96.9,89.1,82.6,87.6,95,,
+Chile,Assault,4.4,4.4,3.8,3.7,4.5,4.2,3.7,3,2.4,,
+Chile,Accidents,41.3,37.8,35.7,36.1,34.7,34.6,33.4,31.7,32.6,,
+Chile,Diseases of the circulatory system,285.4,258.1,262.8,256,251.3,246.5,231.5,226.2,214.4,,
+Chile,Intentional self-harm,12.3,12.5,11.2,10.5,10.6,10.9,10.6,10.5,10,,
+Colombia,Assault,39.5,34.2,32.2,29.4,25.3,24,23.4,22.8,23.5,23.7,
+Colombia,Accidents,30.4,29,29,29.2,29.3,30,28.9,28.5,26.7,29.1,
+Colombia,Diseases of the nervous system,13.6,11.6,11.2,11.7,12.2,14.3,14.2,13.2,14.9,20.1,
+Colombia,Diseases of the digestive system,58.2,52.5,52.9,49.8,48.5,50,45,43.1,44.6,44.6,
+Colombia,Intentional self-harm,5,4.8,4.9,4.7,4.9,5.3,5.4,5.7,6,5.9,
+Colombia,HIV-AIDS,5.8,5.5,5.3,5.5,5.4,5.5,6,5.7,5.9,5.3,
+Colombia,Neoplasms,182.2,171.8,175.6,178.1,181.5,181.5,166.4,167.1,164.5,165.3,
+Colombia,Diseases of the circulatory system,375.3,355.9,354.5,350.4,360.4,370.2,317.1,311.9,311.5,302.9,
+Colombia,Ischaemic heart diseases,185.7,177.9,182.6,182.2,188.9,192.6,169.4,167.4,166.6,157.7,
+Colombia,"Congenital malformations, deformations and chromosomal abnormalities",4.5,4,4.1,4,4.1,4.1,4.1,3.9,4,4,
+Colombia,Diseases of the respiratory system,135,126.5,124.9,128.9,136.3,142.5,123.1,124.2,119.7,121.9,
+Colombia,Tuberculosis,4.1,3.7,3.9,4,4,3.9,3.7,3.4,3.6,3.5,
+Costa Rica,HIV-AIDS,3.5,3.1,3.5,3.1,3.4,3.5,3.7,3,3.8,4.1,3.7
+Costa Rica,Assault,10.4,9.2,7.6,7.5,8.8,10.3,9.6,10.2,10.6,9.9,9.4
+Costa Rica,Diseases of the respiratory system,87.4,74.4,76.2,74.9,80.7,79.7,88.7,84.9,82.1,76.3,54.9
+Costa Rica,Accidents,43.6,39.5,40.3,36.4,40,39.8,43.7,39.8,39,41,33.3
+Costa Rica,Diseases of the digestive system,59.8,58.1,54.2,55.1,53.8,55.4,58.1,56.4,57.6,49.3,42.7
+Costa Rica,Neoplasms,194.6,186.5,182.8,180.3,178.6,172.8,171.7,167.3,173.2,166.8,167.9
+Costa Rica,Diseases of the circulatory system,277.9,256.9,258.4,241.5,249.6,228.3,224.5,221,225.7,211.1,191.2
+Costa Rica,"Congenital malformations, deformations and chromosomal abnormalities",4.7,5,4.7,3.9,4.4,3.8,4,4.1,4.2,4.6,4.2
+Costa Rica,Ischaemic heart diseases,125.1,114.7,117.2,114.3,122.2,106.4,105.2,99,98.1,75,62.9
+Costa Rica,Tuberculosis,2,2.2,1.8,1.2,1.4,1.1,1,1.2,1,1,0.9
+Costa Rica,Intentional self-harm,7.2,7.2,6.8,7.1,5.9,6.7,7,5.7,7.9,7.8,7
+Costa Rica,Diseases of the nervous system,21.1,20.9,19.6,18.5,20,21.5,22.5,22.2,22.5,27.7,24.1
+Croatia,Accidents,50.3,46.4,49.2,45.6,44.7,47.3,45.1,42.1,,44.9,
+Croatia,Diseases of the circulatory system,629.2,598.8,581.7,552.9,535.7,562.6,496.6,495.5,,446.5,
+Croatia,Tuberculosis,1.8,1.5,1.3,1.1,0.8,1,1.2,1.2,,0.7,
+Croatia,Assault,1.4,1.1,1.2,1.1,0.9,0.8,1.2,1.2,,0.8,
+Croatia,Neoplasms,297.3,299.1,297.6,295.7,296.4,296.2,295.1,283.9,,274.1,
+Croatia,Ischaemic heart diseases,274.2,261.3,267.5,245.8,241.2,252.8,222.7,233.9,,162,
+Croatia,Diseases of the nervous system,17.9,19.6,19.5,18.5,18.3,24.1,23.1,26.3,,27.4,
+Croatia,Diseases of the respiratory system,46.2,47,48.4,47.3,48.5,57,51.9,65.4,,46.3,
+Croatia,Intentional self-harm,16.9,15.1,17,15.3,15.9,16.3,15.1,14,,13,
+Croatia,Diseases of the digestive system,54.8,50.7,49.9,46.4,46,45.9,43.3,46.7,,44.4,
+Croatia,"Congenital malformations, deformations and chromosomal abnormalities",3,2.7,2.1,2.7,2.9,3.1,2.9,2.8,,2,
+Croatia,HIV-AIDS,0.2,0.1,0.2,0.2,0.1,0.2,0.1,0.2,,0.2,
+Czech Republic,HIV-AIDS,0,0.1,0.1,0.1,0.2,0.1,0.1,0.1,0.1,0.1,0.1
+Czech Republic,Intentional self-harm,13.9,14.7,15.2,14.5,13.7,12.6,12,12.8,12.3,10.7,10.9
+Czech Republic,Tuberculosis,0.4,0.5,0.3,0.6,0.4,0.5,0.4,0.3,0.3,0.2,0.2
+Czech Republic,Diseases of the digestive system,45.8,43.9,42.7,43.5,41.2,42.4,40.5,42,42.8,43.1,43.1
+Czech Republic,Diseases of the circulatory system,585.5,561,552.5,526.3,484.1,496.2,453,459.3,444.5,424.1,445.8
+Czech Republic,Diseases of the nervous system,10.8,21.8,25.4,25.7,26,29,29.9,30.3,33.1,33.2,36.8
+Czech Republic,Neoplasms,276.1,264.4,260.7,253.6,251,245.1,244.1,239.5,239.2,240.1,235
+Czech Republic,Diseases of the respiratory system,64.8,58.4,59.3,67,59.9,70.5,65.7,73.3,73.6,71.4,70.9
+Czech Republic,Accidents,40.2,39,36.8,35.2,36.7,38.1,34.9,34.4,35.1,34.2,33
+Czech Republic,Ischaemic heart diseases,274.7,285.2,280.6,284.9,259.9,260.4,226.6,227.4,212.6,200,207.3
+Czech Republic,Assault,0.8,0.8,0.9,0.9,0.7,0.8,0.5,0.6,0.5,0.7,0.6
+Czech Republic,"Congenital malformations, deformations and chromosomal abnormalities",1.4,1.5,1.6,1.8,1.6,1.5,1.6,1.6,1.5,1.4,1.5
+Denmark,Diseases of the digestive system,48.5,43.3,39.1,37.2,36.5,34.4,34.2,33.1,34,,
+Denmark,HIV-AIDS,0.5,0.3,0.4,0.5,0.3,0.2,0.4,0.4,0.3,,
+Denmark,"Congenital malformations, deformations and chromosomal abnormalities",1.7,2.2,2.6,2.4,2.7,2.3,2.6,2.5,2.4,,
+Denmark,Tuberculosis,0.6,0.3,0.4,0.3,0.2,0.3,0.4,0.2,0.1,,
+Denmark,Ischaemic heart diseases,92.8,80.1,77.2,71.9,65.2,63.1,61.5,57.7,52,,
+Denmark,Diseases of the respiratory system,106.8,103.5,101.2,105.9,94.2,97.9,98.9,101.7,104.3,,
+Denmark,Assault,0.8,0.8,0.3,0.4,0.7,0.6,0.7,0.8,0.5,,
+Denmark,Accidents,24.8,25.4,23.5,23.7,22.8,21.5,23.1,22.2,21.9,,
+Denmark,Intentional self-harm,10.1,10.5,11.6,10.6,11,9.7,9.9,9.8,9.7,,
+Denmark,Neoplasms,279.4,272.9,273.6,263.6,259.2,255.9,259.1,248.8,240.3,,
+Denmark,Diseases of the nervous system,34.1,32.7,33.4,35.4,35,38,41.6,40.1,41,,
+Denmark,Diseases of the circulatory system,263.2,235.7,232.2,221.2,206.8,209.8,208.8,199.4,190.8,,
+Estonia,Accidents,55.2,56.9,58.7,48.7,47.6,42.4,43,40.5,38.9,35,42.2
+Estonia,Diseases of the nervous system,18.4,19.4,19.4,20.3,19.4,22,20.4,21.7,23.4,22.8,26.7
+Estonia,Tuberculosis,3,3.3,2.6,1.8,1.9,1.5,1.8,1.6,0.9,1,0.6
+Estonia,Ischaemic heart diseases,330.9,289,284,247.3,230.6,209.6,199.2,191.1,176.4,140.4,125.9
+Estonia,HIV-AIDS,3.1,4.5,4,3.9,3.5,3.3,3.2,3,3.6,3,2.4
+Estonia,Diseases of the digestive system,45.1,40.4,38.9,40.5,41.2,43.4,42.6,42.3,42.8,43.4,51.1
+Estonia,Intentional self-harm,16.2,15.7,17.2,15.9,17.7,14.5,13.3,16.5,14,14.1,15.2
+Estonia,"Congenital malformations, deformations and chromosomal abnormalities",2.4,2.5,2.7,1.8,2.2,1.6,2,2.6,3.1,1.5,1.5
+Estonia,Assault,4.6,4.8,4.9,3.9,3.1,3.1,2.4,2.2,2.1,1.9,3.2
+Estonia,Diseases of the circulatory system,663.8,602,592.7,575.3,557.9,525.8,513.6,505.9,479.6,460,454
+Estonia,Diseases of the respiratory system,31,30.2,31.4,35.8,37.3,35.4,35.8,35.5,39.9,36.2,31.2
+Estonia,Neoplasms,257.6,259.7,257.3,256.2,262.9,260.6,252.7,253.6,254.8,245.8,237.6
+Finland,Diseases of the nervous system,93.7,97.9,109.2,113.1,123.5,,132.3,133.7,139.4,138.8,
+Finland,Diseases of the respiratory system,34.3,34.2,33.1,30.2,28.7,,31.9,30.3,31.9,27.5,
+Finland,Tuberculosis,0.8,1,0.8,0.5,0.6,,0.4,0.5,0.4,0.4,
+Finland,Accidents,50.7,48.2,45.3,42.9,41,,39.4,39.5,40.6,37.4,
+Finland,Diseases of the digestive system,42.3,41.4,40,40.3,39.2,,36.5,34.7,34,35.8,
+Finland,HIV-AIDS,0.1,0.1,0.1,0.1,0.1,,0.2,0.1,0.1,0.1,
+Finland,Assault,1.9,1.8,1.4,1.5,1.4,,1.1,1.1,1.2,1.2,
+Finland,Intentional self-harm,17.6,16.6,15.9,16.1,14.3,,14.1,14.8,14.4,13.4,
+Finland,Diseases of the circulatory system,357.9,342,334.4,315.1,307,,293.5,278.6,270.3,256.4,
+Finland,Ischaemic heart diseases,204.3,188.3,182.2,168.7,161.1,,150.9,142.8,134.5,120,
+Finland,Neoplasms,203.6,199.5,198.1,196.6,193,,193.8,191.4,187.1,188.4,
+Finland,"Congenital malformations, deformations and chromosomal abnormalities",2.7,3.1,3.2,2.9,3.1,,3.5,3.3,3.1,3,
+France,HIV-AIDS,0.7,0.6,0.7,0.7,0.6,0.6,0.5,0.3,,,
+France,Diseases of the nervous system,43.5,43.4,45.5,43.6,41.5,45.5,44.9,44.7,,,
+France,Diseases of the circulatory system,193.5,181.8,179.9,173.1,165.4,172.3,164.5,160.8,,,
+France,Diseases of the digestive system,33.6,31.5,31.1,30.1,29.4,30.5,30,29.4,,,
+France,Tuberculosis,0.8,0.8,0.6,0.6,0.5,0.5,0.5,0.5,,,
+France,Accidents,36.3,34.8,34.4,32.7,32,35.3,33.9,34,,,
+France,Diseases of the respiratory system,43.3,44.7,48.3,45.8,42.3,50.8,47.6,50.1,,,
+France,"Congenital malformations, deformations and chromosomal abnormalities",2.3,2.1,2.2,2.3,2.2,2.4,2.3,2.3,,,
+France,Assault,0.7,0.6,0.6,0.6,0.5,0.5,0.4,0.4,,,
+France,Neoplasms,234.4,229.6,227.1,221.9,222.3,223.6,222.5,218.4,,,
+France,Ischaemic heart diseases,49,46.3,45.4,43,41.1,41.8,39.5,38.6,,,
+France,Intentional self-harm,16.3,16.2,15.1,14.8,13.5,13.6,12.7,12.3,,,
+Germany,Intentional self-harm,11.2,11.2,10.8,11.2,11.2,10.9,10.6,9.9,10,9.6,9.7
+Germany,Diseases of the nervous system,22.4,22.8,23.8,25.5,25,27.4,27.4,29.2,30.9,29.8,30.2
+Germany,Diseases of the circulatory system,359.8,339.6,337.8,347,322.5,330.6,307.3,306.9,303.3,284.4,282.4
+Germany,Diseases of the respiratory system,61.3,59.4,58.4,63.4,55.9,63.5,58.8,61.4,63.7,58.4,52.4
+Germany,Accidents,20,20.3,20.2,21.2,21.4,22.5,23.9,24.8,25.9,25.7,25.2
+Germany,Neoplasms,230,229.3,225.4,229.4,225,223.8,224.7,219,218.7,216.4,213.2
+Germany,Tuberculosis,0.4,0.3,0.4,0.4,0.3,0.3,0.3,0.3,0.3,0.3,0.2
+Germany,Assault,0.6,0.5,0.5,0.5,0.4,0.5,0.4,0.4,0.4,0.4,0.4
+Germany,"Congenital malformations, deformations and chromosomal abnormalities",2.3,2.3,2.2,2.4,2.3,2.4,2.6,2.6,2.6,2.5,2.5
+Germany,Ischaemic heart diseases,135.4,126,124.1,126,115.7,119.1,111.3,112.3,109.4,102.8,102.4
+Germany,HIV-AIDS,0.5,0.5,0.5,0.5,0.4,0.4,0.4,0.3,0.3,0.3,0.3
+Germany,Diseases of the digestive system,44.1,41,39.9,40.3,37.9,38.5,38.7,38.4,38,37.6,38.2
+Greece,"Congenital malformations, deformations and chromosomal abnormalities",2.6,2.5,2.4,2.1,1.7,2,2.6,2.3,2,2.1,
+Greece,HIV-AIDS,0.2,0.2,0.4,0.4,0.4,0.3,0.5,0.5,0.4,0.3,
+Greece,Intentional self-harm,3.2,4,4.3,4.6,4.9,4.6,4.1,4.5,4.9,4.6,
+Greece,Neoplasms,213.2,210,215,217.6,219,220.5,220.3,216.9,213.1,212.4,
+Greece,Accidents,24.4,22.5,21.8,20.9,20,26.1,25.5,25.8,26.3,26,
+Greece,Assault,1.4,1.6,1.5,1.4,1,0.9,0.8,0.8,1,0.9,
+Greece,Tuberculosis,0.6,0.5,0.8,0.5,0.4,0.3,0.3,0.4,0.4,0.3,
+Greece,Diseases of the nervous system,12.1,11.6,14.7,13.7,18.2,21,22.5,25.6,24.6,23.4,
+Greece,Diseases of the digestive system,20.8,21.6,22.1,22.7,23.8,23.3,24.2,24.4,23.3,23.2,
+Greece,Diseases of the respiratory system,85.7,81.2,83.3,77.8,87.4,98.3,88.8,86.2,76.9,80.8,
+Greece,Diseases of the circulatory system,393.8,375.7,368.5,333.9,315.2,315.1,292.9,303.6,282.3,275.2,
+Greece,Ischaemic heart diseases,91.4,90,90,85.6,88.9,88,83.2,90.8,86.7,91.6,
+Hungary,Tuberculosis,1.5,1.2,1.2,0.9,0.8,1,0.6,0.6,0.8,0.6,
+Hungary,Assault,1.5,1.6,1.4,1.2,0.9,1.2,1,0.9,1.1,0.8,
+Hungary,Diseases of the nervous system,17.4,16.8,18.3,17.2,17.1,19.6,18.4,20.2,20.9,19.6,
+Hungary,"Congenital malformations, deformations and chromosomal abnormalities",3.9,3.7,3.4,3,3.6,3.4,3.3,3.3,3.2,2.8,
+Hungary,Diseases of the circulatory system,679.5,652.3,658.9,638.1,625.5,643.5,609,628.4,612.5,594.2,
+Hungary,Neoplasms,321.9,320.9,323.1,315.1,311.5,308.5,308.2,305.4,300.4,292.1,
+Hungary,Diseases of the digestive system,75.8,71.1,65.8,61.3,60.5,59.8,57.9,57.9,59.6,58.1,
+Hungary,Accidents,43.3,39.4,37.8,36.4,35.7,36.7,35.1,36.8,34.8,33.9,
+Hungary,Intentional self-harm,24.3,23.6,22.8,20.2,18.5,18,16.9,15.7,15.9,14.8,
+Hungary,Diseases of the respiratory system,62.6,65.2,67.4,68.7,66.7,81.3,67.8,76,75,76,
+Hungary,HIV-AIDS,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,
+Hungary,Ischaemic heart diseases,349.5,337.5,338.2,325.1,320.4,324.6,303.2,312.9,303.8,295.6,
+Iceland,Tuberculosis,0.8,0.4,0.4,,,0.7,,,,,
+Iceland,Neoplasms,232.3,231.6,225,221.3,226,214.7,234.3,201.1,194,203.5,194.9
+Iceland,Diseases of the circulatory system,294.1,272.8,249.2,265.1,243.4,261.8,253.9,232.7,213.9,223.4,214.4
+Iceland,Ischaemic heart diseases,145.4,140.9,123.1,128.6,114.5,110.1,104.5,104.8,97.4,91.9,85.4
+Iceland,Diseases of the respiratory system,80.5,70.1,58.1,65.2,57.6,58.3,65.1,82.1,77.2,55.6,58
+Iceland,Accidents,29.3,29,26.6,27.9,24.4,26.8,35.4,33.5,37.9,29.4,32
+Iceland,HIV-AIDS,,0.4,,0.4,0.4,,,,,0.3,0.3
+Iceland,Diseases of the nervous system,69.4,72,72,80.5,66.4,75.2,88.8,83.8,94.7,87.5,78
+Iceland,Diseases of the digestive system,24.3,19.8,23.1,26.9,20.1,27.4,19.4,22.8,18.3,23.4,23.1
+Iceland,Assault,0.6,0.8,0.3,0.9,0.3,0.9,0.3,0.9,0.3,,0.6
+Iceland,"Congenital malformations, deformations and chromosomal abnormalities",1.6,2.2,1.8,3.7,2.7,2.1,2.1,2.1,0.8,2.9,3.8
+Iceland,Intentional self-harm,15,8.9,11.9,16.3,14.1,12.4,12.2,9.8,9.8,11.2,12.7
+Ireland,Diseases of the nervous system,32.3,34.4,41.1,41,41,43.8,,,43.2,,
+Ireland,HIV-AIDS,0.3,0.3,0.3,0.2,0.2,0.2,,,0.1,,
+Ireland,Diseases of the respiratory system,106.5,111.2,110.1,107.7,103.6,111.8,,,111.6,,
+Ireland,Tuberculosis,1.1,0.9,0.8,0.7,0.7,0.5,,,0.7,,
+Ireland,Ischaemic heart diseases,151.1,148.6,145.8,139,123.6,126.9,,,114,,
+Ireland,Assault,0.8,0.6,0.8,0.6,0.7,0.5,,,0.5,,
+Ireland,Neoplasms,251.4,264.6,255.1,253.9,252.2,244,,,240.1,,
+Ireland,Diseases of the circulatory system,302.1,293.6,293.1,286.1,258.7,267.7,,,247.5,,
+Ireland,"Congenital malformations, deformations and chromosomal abnormalities",3.5,3.4,3.7,3.8,3.4,3.4,,,3.7,,
+Ireland,Accidents,23.5,25.8,23.5,22.6,23.6,20.2,,,21.9,,
+Ireland,Diseases of the digestive system,32.9,31.1,33.4,30.6,29,26.1,,,28.2,,
+Ireland,Intentional self-harm,10.8,12.2,12.2,11.1,10.8,9.5,,,9.4,,
+Israel,Neoplasms,211.8,201.6,204.6,200.2,198.9,197.3,191.5,190.6,189.2,188.4,183.2
+Israel,Diseases of the digestive system,27.4,29,28.1,26.7,25.2,26,24.5,23.6,24,24.1,22.8
+Israel,Assault,2.1,2.3,1.8,1.8,1.7,1.8,1.5,1.6,1.5,1.7,1.6
+Israel,Intentional self-harm,7.5,6.4,6.6,5.6,5.6,5,5.6,5.6,6.2,5.7,5.7
+Israel,HIV-AIDS,0.4,0.5,0.5,0.5,0.4,0.5,0.4,0.4,0.2,0.3,0.2
+Israel,Ischaemic heart diseases,87,84.7,77.1,73.5,69.8,68.7,65.1,62.5,58.3,57.1,56.8
+Israel,Diseases of the nervous system,23.9,24.6,26.3,26.6,28.3,27.4,28.8,27.5,26.1,25.9,24.1
+Israel,Diseases of the respiratory system,58.7,61.4,63.8,58.8,61.7,64.4,60,62.2,65.3,70.7,65
+Israel,Accidents,20.2,20,17.9,17.7,16,17.7,18,17.4,17.9,16.9,16.7
+Israel,Diseases of the circulatory system,204.9,202.9,193.4,185.9,182.1,182.6,175.9,168.9,157.8,161,158.6
+Israel,Tuberculosis,0.5,0.4,0.4,0.3,0.3,0.2,0.2,0.2,0.3,0.3,0.1
+Israel,"Congenital malformations, deformations and chromosomal abnormalities",2.3,2.6,2.5,2.5,2.1,2.2,2,2.2,1.8,1.9,1.7
+Italy,Ischaemic heart diseases,92.6,94.4,92.1,85.3,80.6,82.9,74.3,73.7,,,
+Italy,HIV-AIDS,1.3,1.3,1.4,1.2,1.1,1,0.7,0.7,,,
+Italy,Intentional self-harm,6,6.4,6.5,6.5,6.2,5.9,5.7,5.8,,,
+Italy,Diseases of the circulatory system,280.5,279.3,279.4,261.7,251.8,267.2,242.2,249,,,
+Italy,Accidents,26.3,25.6,24.6,24,22.5,23.5,23.8,24.6,,,
+Italy,Neoplasms,235,235.6,233.4,226.3,222.6,221.1,218.5,215.9,,,
+Italy,Diseases of the respiratory system,48.9,50.6,52.5,48.9,47.3,54,50.6,56.8,,,
+Italy,"Congenital malformations, deformations and chromosomal abnormalities",2.3,2.5,2.3,2.3,2.2,2.3,2.1,2.4,,,
+Italy,Assault,0.7,0.8,0.8,0.7,0.6,0.6,0.6,0.5,,,
+Italy,Tuberculosis,0.5,0.5,0.4,0.3,0.4,0.4,0.4,0.4,,,
+Italy,Diseases of the nervous system,28.8,29.5,31,29.1,28.7,32.5,31.2,34,,,
+Italy,Diseases of the digestive system,31.2,29.9,29.8,28.1,27.3,27.6,26.4,26.6,,,
+Japan,Accidents,25.5,37,24.3,23,22.1,21.3,20.7,21.5,21.5,20.1,
+Japan,Ischaemic heart diseases,43.3,42.4,41,38.5,37.1,35.2,33.8,32.7,32,30.4,
+Japan,Diseases of the nervous system,11,12.1,12.9,13.7,14,14.9,15.5,20.1,20.9,21.6,
+Japan,Diseases of the digestive system,26.1,26.1,25.5,25,24.5,24.2,23.8,24.4,24.3,24.1,
+Japan,"Congenital malformations, deformations and chromosomal abnormalities",1.9,1.8,1.8,1.8,1.7,1.7,1.7,1.8,1.7,1.7,
+Japan,Diseases of the circulatory system,189.2,186.3,180.7,172.3,165.3,159.8,155.5,155.2,151.8,147.4,
+Japan,Tuberculosis,2,1.8,1.7,1.5,1.4,1.3,1.2,1.4,1.3,1.2,
+Japan,Diseases of the respiratory system,101,102.5,99.9,97.2,93.5,93.3,90.3,78.8,77.1,75.9,
+Japan,Assault,0.3,0.3,0.3,0.3,0.3,0.2,0.2,0.2,0.2,0.2,
+Japan,HIV-AIDS,0,0,0,0,0,0,0,0,0,0,
+Japan,Neoplasms,208,205.7,202.7,200.2,197.5,194.6,192,188.3,184.5,182.4,
+Japan,Intentional self-harm,21.7,21.4,19.5,19.2,18,17,15.6,15.2,15,14.6,
+Korea,Assault,1.2,1.1,1.1,1.1,1,1,0.9,0.8,0.8,0.8,0.7
+Korea,Accidents,36.2,34,35,33.2,31,29.8,28.7,27,24.4,22.2,21.1
+Korea,"Congenital malformations, deformations and chromosomal abnormalities",1.2,1.2,1.2,1.2,1.1,1,1,0.9,0.9,0.8,0.8
+Korea,Intentional self-harm,35,34.7,30.3,29.8,27.6,26.8,25.5,23.8,25.5,25.4,24.1
+Korea,Neoplasms,213.7,204.1,202.5,197.6,193.2,186.4,183,177.2,171.1,168.3,163.4
+Korea,Diseases of the respiratory system,73.9,75.5,82.5,76.6,77,83.5,83.2,87.4,95.1,86.9,80.7
+Korea,Tuberculosis,8.9,8.6,8.4,7.2,7,6.5,6.1,4.9,4.5,3.9,3
+Korea,Diseases of the circulatory system,202.7,198.9,195.5,178.5,170.6,167.1,160.9,155.1,150.8,136.5,128.8
+Korea,Diseases of the digestive system,31.7,31,30.2,28.8,28.1,27.7,27.2,26.7,26.2,24.2,25
+Korea,Diseases of the nervous system,21.9,23.5,28,32.4,31,31.8,30.2,29.5,32,30.6,30.7
+Korea,HIV-AIDS,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.1,0.1
+Korea,Ischaemic heart diseases,46.6,46.1,47.1,41.4,41.1,40.4,38,34.9,33.8,30.1,29.3
+Latvia,Assault,6.4,6.1,6.2,5.8,6.7,4.9,4.4,3.6,3.8,3.2,3.3
+Latvia,Intentional self-harm,20.1,20.5,20.9,18.2,18.4,18.6,17.7,17.3,14.7,14.4,14.9
+Latvia,Accidents,62.7,53,54.8,53.6,56.2,51.3,48.8,48.9,47,41.5,41.5
+Latvia,Neoplasms,272.1,265.4,269.2,265.5,265.6,260.6,261.1,264.9,262,261.4,261.5
+Latvia,HIV-AIDS,2.8,3.5,4.4,5.5,5.2,4.3,3.6,4.2,4,3.7,2.7
+Latvia,Ischaemic heart diseases,403.6,388.3,389.7,372.3,358,350.8,321.7,296.1,292.5,272,274.5
+Latvia,"Congenital malformations, deformations and chromosomal abnormalities",3.2,3.6,3.4,2.4,2.5,2.7,3,2.1,2.2,1.8,2.1
+Latvia,Diseases of the digestive system,48.5,45.4,44,48.3,45,45.8,46.5,45.6,48.8,45.1,44.3
+Latvia,Tuberculosis,4,3.6,2.8,4.8,3.1,4.5,3.6,3.3,2.9,3.5,2.7
+Latvia,Diseases of the respiratory system,30.1,32.9,32.1,37.2,31,31.4,36,36.5,39.9,33.7,30.6
+Latvia,Diseases of the circulatory system,765.7,727.1,747.4,736.5,713.1,705.6,686,677,667.2,630.1,643
+Latvia,Diseases of the nervous system,12.1,12.2,13.6,14.4,14,16.9,18.1,20.9,22.3,20.4,19
+Lithuania,"Congenital malformations, deformations and chromosomal abnormalities",3.7,3.2,2.4,2.9,3.4,3.1,2.9,2.4,2.7,2.1,2.1
+Lithuania,Diseases of the respiratory system,40.3,38.6,38.9,45.2,35.7,41,38.8,39.5,40.7,35.6,35.6
+Lithuania,Diseases of the nervous system,18.9,17.5,16.2,18.6,18.5,17.9,18.6,21.5,23.1,23.6,25.8
+Lithuania,Assault,5.5,5.1,4.4,4.8,3.8,4.1,3.4,2.8,2.5,2.2,2.3
+Lithuania,Tuberculosis,7.1,7,8.3,6.8,7.3,6,5.7,5.1,3.7,3.5,3.4
+Lithuania,Diseases of the digestive system,70.5,65.1,65.3,70.1,65.4,65.2,67.4,61.3,58.4,58.6,66.4
+Lithuania,HIV-AIDS,0.6,0.6,1,0.9,0.8,0.5,1.2,1.1,0.8,0.7,0.9
+Lithuania,Ischaemic heart diseases,501,474.5,472.2,466,445.1,463.7,445.6,419,396,372.2,398.1
+Lithuania,Neoplasms,255.8,254.6,249.1,244.5,247.6,256.5,251.3,244.8,244.5,243.8,247.5
+Lithuania,Diseases of the circulatory system,775.6,739,726.9,718.2,680.7,703.1,679.6,652.5,627.7,591.6,645.6
+Lithuania,Intentional self-harm,32.2,32.9,30.1,35.4,30.4,29.6,27.3,25,22.9,22.2,20.3
+Lithuania,Accidents,75.9,68.1,70.7,65.8,63.4,60.8,58.8,55.1,51.3,45.8,49.3
+Luxembourg,Diseases of the nervous system,33.6,35.1,35.7,36,30.4,35,31.3,33.1,31.4,35.7,
+Luxembourg,HIV-AIDS,0.2,0.6,1.5,0.9,0.5,0.7,0.3,0.2,0.2,,
+Luxembourg,Accidents,34.2,33.1,32.2,34.1,27.3,28.2,30.4,21.3,27.7,23.8,
+Luxembourg,"Congenital malformations, deformations and chromosomal abnormalities",1.8,0.8,0.6,2,1.2,1.5,2,1.6,1.6,1.2,
+Luxembourg,Ischaemic heart diseases,72.9,75.3,65.3,71.5,64.1,58.9,67.4,60.2,59.1,47.7,
+Luxembourg,Intentional self-harm,10.5,10.7,9.6,7.6,12.2,11.5,7.5,8.7,8.2,10.9,
+Luxembourg,Tuberculosis,0.3,0.5,,,0.2,0.2,0.2,0.5,,,
+Luxembourg,Neoplasms,232.7,232.9,230.6,213,224.8,209,203.3,206.5,196.6,191.9,
+Luxembourg,Diseases of the circulatory system,289.1,283.6,260.5,242.8,232,223.2,229.6,225.3,206.7,190.7,
+Luxembourg,Diseases of the digestive system,37,36.1,36.8,30.2,33.7,31.5,37.7,34,33.2,32,
+Luxembourg,Assault,2.2,0.4,0.2,0.2,0.7,0.9,0.5,0.1,0.3,0.7,
+Luxembourg,Diseases of the respiratory system,62.3,69.4,59.9,57.4,51.3,62,54.9,56,69.1,67.3,
+Mexico,"Congenital malformations, deformations and chromosomal abnormalities",5.9,5.7,5.6,5.6,5.8,5.8,5.5,5.6,5.4,5.5,5.1
+Mexico,Diseases of the circulatory system,319.7,302.3,298.7,295.7,309.7,316.6,321.2,320.3,324.3,326.4,427.5
+Mexico,HIV-AIDS,5,4.9,4.6,4.5,4.5,4.4,4.1,4.1,4.3,4.5,3.9
+Mexico,Diseases of the nervous system,16.8,15.5,15,15.2,15.7,16.3,16.3,16.3,16.8,17.4,16.9
+Mexico,Intentional self-harm,4.9,5.2,4.9,5.2,5.6,5.5,5.4,5.5,5.5,5.7,6.3
+Mexico,Tuberculosis,4.1,4.2,3.6,3.6,3.2,2.9,2.8,2.7,2.5,2.7,2.4
+Mexico,Diseases of the respiratory system,112.5,100.4,97.6,101.1,105.9,105,107.8,104.3,112.6,115.1,145.3
+Mexico,Neoplasms,142.6,139.2,138.7,134.1,136.5,136.6,138.3,136.5,135,136.1,134.9
+Mexico,Assault,23.9,24.7,22.8,19.8,18.1,18.2,21.5,26.9,30.1,28.8,29.9
+Mexico,Accidents,45.4,42,42.2,40.2,39.8,40.3,40.1,37.8,35.1,33.6,31.4
+Mexico,Diseases of the digestive system,103.1,100.5,99.9,98.5,96.5,99.9,102.6,99.9,98,99.3,96.4
+Mexico,Ischaemic heart diseases,160.9,153.7,153.9,154.2,161.3,167.8,180.4,181.8,187.9,191.4,275.6
+Netherlands,Neoplasms,268.3,265.4,263.1,254.4,252.5,252.1,253.7,245.5,232.6,226,226.9
+Netherlands,HIV-AIDS,0.3,0.3,0.2,0.2,0.2,0.2,0.2,0.1,0.1,0.1,0.1
+Netherlands,"Congenital malformations, deformations and chromosomal abnormalities",2.8,2.9,2.6,2.6,2.6,2.6,2.6,2.8,2.9,3,2.6
+Netherlands,Diseases of the digestive system,33.3,31.7,31.7,26.4,25.1,25.4,25.5,24,23.7,22.4,23.9
+Netherlands,Intentional self-harm,9.4,9.7,10.3,10.8,10.6,10.7,10.8,10.8,10.2,10,10
+Netherlands,Accidents,24.9,24.8,26.8,26.1,26.8,29.8,31.9,32.3,33.8,32.1,35
+Netherlands,Diseases of the respiratory system,83.5,83.1,88.2,72.9,60.5,71.6,65.9,69.6,69.8,59.3,50.5
+Netherlands,Ischaemic heart diseases,65.6,60.9,58.5,54.5,51,50.4,47.4,44.6,42.1,39.2,38.8
+Netherlands,Diseases of the circulatory system,249.4,237.6,233.3,228.6,219.7,222.5,213.9,205.6,188.7,170.4,171.2
+Netherlands,Assault,0.9,0.9,0.9,0.8,0.7,0.6,0.6,0.8,0.6,0.6,0.6
+Netherlands,Tuberculosis,0.3,0.2,0.2,0.2,0.2,0.2,0.2,0.1,0.1,0.1,0.2
+Netherlands,Diseases of the nervous system,29.9,31.5,33.9,40,39.8,43.4,46.5,45.6,45,41.7,40.8
+New Zealand,"Congenital malformations, deformations and chromosomal abnormalities",3.9,4,3.4,3.3,3.7,3.8,3.3,,,,
+New Zealand,Accidents,34,35.4,30.9,28.2,30.6,30.2,29.6,,,,
+New Zealand,Diseases of the digestive system,24,25.5,24,24.6,24.8,23.6,24.3,,,,
+New Zealand,Ischaemic heart diseases,151.6,151,141.2,133.4,131,125.4,112.5,,,,
+New Zealand,Tuberculosis,0.5,0.4,0.3,0.3,0.3,0.5,0.3,,,,
+New Zealand,Intentional self-harm,12.4,11.2,12.4,11.8,11.5,11.8,12.1,,,,
+New Zealand,Diseases of the circulatory system,286.4,287.8,274.2,259.5,266.8,257,237.2,,,,
+New Zealand,Assault,1.2,1.2,1.3,1.2,1,1.3,1.3,,,,
+New Zealand,Diseases of the respiratory system,69.2,74.7,74.9,72.4,75,74.3,70.3,,,,
+New Zealand,Neoplasms,237.5,239.3,233,235.1,234.1,235.9,226.3,,,,
+New Zealand,Diseases of the nervous system,31.1,34.9,34.7,32,33.9,34.9,36.4,,,,
+New Zealand,HIV-AIDS,0.4,0.2,0.3,0.2,0.4,0.1,0.2,,,,
+Norway,Diseases of the circulatory system,262.4,255.5,254.2,234,223.9,219.4,204,,,,
+Norway,Ischaemic heart diseases,104.8,98.9,95.4,85.8,78.8,80.2,71.8,,,,
+Norway,Diseases of the nervous system,33.7,33.6,35.2,34.3,38.1,36.8,39.2,,,,
+Norway,Assault,0.7,2.2,0.6,1,0.6,0.4,0.6,,,,
+Norway,HIV-AIDS,0.2,0.3,0.2,0.1,0.2,0.2,0.2,,,,
+Norway,Intentional self-harm,11.4,12.2,10.4,11,10.8,11.4,11.8,,,,
+Norway,"Congenital malformations, deformations and chromosomal abnormalities",2.5,2.5,2.6,2.7,2.3,2.3,2.6,,,,
+Norway,Diseases of the respiratory system,78.5,80.7,84.6,79.2,72.9,80.7,81.8,,,,
+Norway,Diseases of the digestive system,25.6,25.9,26.2,23.7,23.6,24.3,23.8,,,,
+Norway,Neoplasms,236.4,231.6,227.4,219.1,220.5,215.7,212.7,,,,
+Norway,Tuberculosis,0.5,0.6,0.4,0.4,0.2,0.2,0.3,,,,
+Norway,Accidents,39.2,37.3,36.7,37.9,38.1,34.4,36,,,,
+Peru,Diseases of the nervous system,15.5,14.8,5.2,2.9,1.8,2,13.8,17,16.3,,
+Peru,Intentional self-harm,1,1.8,2.3,1.2,1.4,0.9,1.4,1.3,1.7,,
+Peru,Tuberculosis,10.4,9.4,9,7.9,7.1,7.7,8.2,7.3,9.7,,
+Peru,HIV-AIDS,3.1,3.2,2.9,2.8,3.1,3.4,3,2.9,4.3,,
+Peru,Accidents,32.4,30.5,35.8,51,38,40.3,29.9,32.6,34.9,,
+Peru,Diseases of the respiratory system,221.9,204.4,203.3,198.5,178.9,174.8,162.6,199.2,175.9,,
+Peru,Diseases of the circulatory system,179,165.2,158.9,156.1,149.3,138.9,120.6,141.7,141.3,,
+Peru,Neoplasms,154.6,144.2,141.1,135.2,135.7,128.6,117.9,127.7,141.2,,
+Peru,Diseases of the digestive system,59.6,53.3,51.3,47.7,43.6,47.2,43.2,49,54.7,,
+Peru,Ischaemic heart diseases,48.7,46,40.8,46.6,38.8,27.4,43.5,46.7,46.5,,
+Peru,Assault,1.7,1.4,3.3,2.1,3.1,3.3,1.9,1.3,2.6,,
+Peru,"Congenital malformations, deformations and chromosomal abnormalities",2.9,2.7,2.7,3,3,2.9,2.8,3.7,3.5,,
+Poland,Diseases of the circulatory system,548.4,519.2,527.7,515.1,478.1,495.6,448.7,437,422.4,404.8,
+Poland,Intentional self-harm,16.3,15.6,16.2,15.8,15.1,13.7,11.9,11.3,11.3,11.6,
+Poland,Diseases of the respiratory system,59.7,59.9,59,65.8,56.9,66.4,61.1,68.6,69.3,68.2,
+Poland,Tuberculosis,1.6,1.8,1.7,1.4,1.4,1.4,1.4,1.3,1.3,1.2,
+Poland,Ischaemic heart diseases,141.2,139.4,130.1,116.1,106.6,106.6,103.5,116.1,108.5,113.3,
+Poland,Diseases of the nervous system,15.1,15.5,16.3,16.2,14.2,14.7,15.3,16.8,16.5,16.7,
+Poland,Diseases of the digestive system,46.6,46.3,45.6,45.1,41.1,38.6,41.3,42.5,42.9,43.4,
+Poland,Assault,0.9,1,1,1.1,0.9,0.7,0.7,0.7,0.5,0.6,
+Poland,Neoplasms,275.2,270.3,272.5,268.4,267.1,276.9,273.1,270.7,267.7,265.9,
+Poland,HIV-AIDS,0.3,0.3,0.3,0.3,0.3,0.4,0.3,0.2,0.3,0.2,
+Poland,"Congenital malformations, deformations and chromosomal abnormalities",2.8,2.6,2.7,2.6,2.6,2.5,2.5,2.7,2.6,2.3,
+Poland,Accidents,39.3,39.3,38.5,35.9,34.1,31.7,31.3,31.9,32.8,32.5,
+Portugal,Neoplasms,219.1,218.9,217.3,215,214.4,214.9,217.1,215.3,214.6,,
+Portugal,Ischaemic heart diseases,64.3,57.7,56.5,55.1,58.7,56.4,55.6,54.3,52.5,,
+Portugal,"Congenital malformations, deformations and chromosomal abnormalities",1.4,1.7,1.5,1.7,1.8,2.1,2,2,2.5,,
+Portugal,Diseases of the circulatory system,291.2,262.4,265,248.7,249.7,244.7,241.3,232.7,230.9,,
+Portugal,Diseases of the digestive system,40.2,38.4,37.6,37.3,36.6,35.6,38.2,37.5,35.8,,
+Portugal,Intentional self-harm,9.7,8.9,9.3,9.1,10.6,9.7,8.4,9.1,8.5,,
+Portugal,Diseases of the respiratory system,102,98.9,112,99.4,93.5,100.6,98.3,90.8,91.9,,
+Portugal,Tuberculosis,1.7,1.8,1.7,1.7,1.6,1.7,1.5,1.4,1.7,,
+Portugal,HIV-AIDS,5.8,5,4.5,4.1,3.8,3.5,2.9,2.6,2.8,,
+Portugal,Accidents,17.8,16.2,13.6,17.5,20,21.5,23,26,24.8,,
+Portugal,Assault,1.2,0.9,1.1,0.9,1,1,0.8,0.7,0.7,,
+Portugal,Diseases of the nervous system,26.6,25.7,27.5,28.1,27.8,28.5,28.9,28,29.4,,
+Romania,Diseases of the circulatory system,894.3,853.3,832.5,779.5,770,779.1,741.6,737.1,722,688.6,
+Romania,Diseases of the nervous system,13.9,15,16.8,16.3,17.7,18.9,19.5,20.7,21.4,19.8,
+Romania,Tuberculosis,7,6.1,6.1,5.5,5.4,5.1,4.7,4.4,4.4,4.4,
+Romania,Ischaemic heart diseases,302.8,283.5,277.7,261.2,260.5,265.9,247.8,244.1,240.7,235.7,
+Romania,Accidents,41.7,35.9,37.3,34.7,35.2,34.3,35.9,36.3,36.7,36.6,
+Romania,Neoplasms,234.9,237.6,239.1,240.5,242.6,244.6,245.8,244.2,241.9,233.7,
+Romania,"Congenital malformations, deformations and chromosomal abnormalities",3.3,3.1,3,2.9,2.6,2.6,2.4,2.3,2.1,1.8,
+Romania,Assault,2.4,2,2.1,1.8,1.8,1.5,1.5,1.4,1.3,1.4,
+Romania,Intentional self-harm,12.8,11.8,12.2,11.7,10.8,10.9,9.6,9.4,9.5,8.6,
+Romania,Diseases of the respiratory system,67.8,65.7,69,64.6,67.3,74.3,71.4,75.2,81.8,83.8,
+Romania,Diseases of the digestive system,81.5,71.1,70.8,68.1,70.2,68.9,69.2,71.1,72.9,73.6,
+Romania,HIV-AIDS,0.6,0.8,0.9,0.8,1,0.9,1.1,0.9,0.9,0.7,
+Russia,Tuberculosis,14.9,13.7,12.2,10.9,9.7,8.9,,,,5,
+Russia,"Congenital malformations, deformations and chromosomal abnormalities",3.8,3.7,3.6,3.4,3.3,3,,,,2.5,
+Russia,Neoplasms,231,228,223.9,222.5,223.6,219.6,,,,208.4,
+Russia,Diseases of the digestive system,69.1,66.5,65.9,65.3,71.8,72.9,,,,68.2,
+Russia,Ischaemic heart diseases,538.2,498.7,483.7,446.5,416,395.2,,,,333.7,
+Russia,HIV-AIDS,4.3,5.3,5.7,6.8,8,9.7,,,,12.7,
+Russia,Diseases of the respiratory system,59.6,58,55,57.2,61.4,57.1,,,,42.6,
+Russia,Diseases of the nervous system,14.3,14.7,14.3,18.1,32.7,48.9,,,,80.1,
+Russia,Diseases of the circulatory system,1038.6,944.9,906.1,843.4,793,741.3,,,,633.8,
+Russia,Assault,13,11.4,10.4,9.7,8.7,7.9,,,,4.8,
+Russia,Intentional self-harm,22.8,21.3,20.3,19.6,18.3,17.1,,,,11.7,
+Slovak Republic,Diseases of the digestive system,60.3,,68.3,58.8,58.8,,59.3,58.3,62.7,57.5,
+Slovak Republic,Accidents,33.8,,43.5,46.8,35.6,,32.9,32.4,32.8,33.2,
+Slovak Republic,Ischaemic heart diseases,442.1,,347.8,351.6,318.2,,295.6,303.1,274.6,270.6,
+Slovak Republic,Tuberculosis,0.7,,0.3,0.4,0.7,,0.5,0.5,0.5,0.3,
+Slovak Republic,Diseases of the circulatory system,736.3,,583.8,581.6,539.3,,512.5,529.7,493.4,470.1,
+Slovak Republic,"Congenital malformations, deformations and chromosomal abnormalities",3,,3,3.5,3.3,,3.1,2.7,3.5,3.3,
+Slovak Republic,Diseases of the nervous system,16.3,,34.7,20.5,25.7,,26.6,23.2,29.8,28.2,
+Slovak Republic,Intentional self-harm,11.6,,10.4,11.2,10,,6.9,6.7,7.4,6.6,
+Slovak Republic,Diseases of the respiratory system,82.3,,73,70.9,62.3,,65.5,79,72.5,65.9,
+Slovak Republic,Assault,1.2,,1,1.3,0.9,,0.7,0.4,0.5,0.5,
+Slovak Republic,HIV-AIDS,0,,0.1,0,0,,0,0.1,0.1,0.1,
+Slovak Republic,Neoplasms,270.7,,278.5,284.7,282.7,,273.2,271.1,270.5,256.1,
+Slovenia,Tuberculosis,1,0.6,0.5,0.4,0.9,0.5,0.3,0.3,0.2,0.5,0.7
+Slovenia,Assault,0.4,0.9,0.7,0.9,0.9,0.6,0.7,1.1,0.7,0.4,0.7
+Slovenia,Diseases of the nervous system,14.9,15.9,15.9,16.5,17.4,18.5,18.4,25.8,29,30.2,35.6
+Slovenia,Diseases of the respiratory system,57.9,59.2,66.8,62.2,51.8,56.7,53.2,52.3,43.4,41.1,30.2
+Slovenia,Intentional self-harm,19.2,20.1,20.1,20.3,17.5,18.9,16.8,18.1,15.7,17.2,15.7
+Slovenia,Diseases of the digestive system,55.7,52,53.2,48.9,42.8,37.7,37.7,37.6,36.3,35.3,36.3
+Slovenia,HIV-AIDS,,0,0.1,0.2,0.2,0.1,,0.2,0,,
+Slovenia,Neoplasms,281.3,274.6,265.3,271.2,257.2,266.6,262.7,262.4,268.6,247,249.6
+Slovenia,"Congenital malformations, deformations and chromosomal abnormalities",1.6,1.9,2,2.1,2,1.3,2,1.8,2.1,2.3,1.9
+Slovenia,Ischaemic heart diseases,102.5,99.2,96.1,90,82.5,89.9,79.5,80.5,78.1,72.2,67.9
+Slovenia,Diseases of the circulatory system,377.8,359.8,359.8,347.9,348.6,347.8,329.5,327.7,316.7,301.8,291
+Slovenia,Accidents,45.7,45.6,42.3,39.9,34.3,36.6,37.1,41.4,41.9,40.6,49.2
+South Africa,Neoplasms,205.6,205.9,201.8,195.6,196.1,208.3,208.2,200.3,197.8,,
+South Africa,Tuberculosis,175,158.2,140.2,120,112.4,100.7,87,82.7,75.9,,
+South Africa,HIV-AIDS,41.3,40.5,45,53.9,51,51.2,48.1,46.9,45.9,,
+South Africa,Diseases of the nervous system,51.8,45.1,44.4,42,39.2,42.5,38.9,36.1,34.6,,
+South Africa,"Congenital malformations, deformations and chromosomal abnormalities",2.8,3.7,3.7,3.3,3.1,3.2,3.1,3.4,3.6,,
+South Africa,Intentional self-harm,1,0.8,1.1,1.3,1.2,1,0.8,0.7,0.6,,
+South Africa,Accidents,96.9,93.3,93.7,84.5,82.4,97.8,103,101.4,98.9,,
+South Africa,Diseases of the circulatory system,614.1,599.5,560,518.1,522.8,545.4,563.6,517.9,506.5,,
+South Africa,Ischaemic heart diseases,90.7,87.1,84.2,75.5,72.3,80.5,84.5,79,78.3,,
+South Africa,Diseases of the respiratory system,300.2,285,251.9,225.3,217.6,216.7,214.4,204.6,186.4,,
+South Africa,Diseases of the digestive system,62,60,57.3,52.8,51.5,53.1,51,49.1,45.8,,
+South Africa,Assault,10.3,9.9,9.9,9.6,10,13.6,14.5,14.2,13.1,,
+Spain,Assault,0.7,0.7,0.6,0.6,0.7,0.6,0.6,0.7,0.6,0.6,0.6
+Spain,Intentional self-harm,6.5,6.5,7.1,7.8,7.8,7.2,7.1,7.2,6.9,7.1,7.5
+Spain,Diseases of the respiratory system,78.9,80.4,85.9,75,75.2,86.5,77,81.8,83.5,73,64.4
+Spain,"Congenital malformations, deformations and chromosomal abnormalities",2.2,2.1,1.8,1.7,1.9,1.8,1.9,1.8,1.9,1.8,1.8
+Spain,HIV-AIDS,2.1,1.9,1.7,1.5,1.4,1.2,1,0.9,0.8,0.8,0.7
+Spain,Tuberculosis,0.8,0.6,0.6,0.6,0.5,0.4,0.4,0.4,0.4,0.4,0.3
+Spain,Diseases of the nervous system,37.8,38.7,40.2,38,40.3,43.4,41.8,42.4,41.7,40.6,42.3
+Spain,Accidents,20.6,20.5,18.7,18.8,19.1,19.8,20.8,20.4,20.1,20.2,19.8
+Spain,Neoplasms,222,222,218.2,214.2,208.8,207.3,207.9,203.5,199.4,195.8,192.5
+Spain,Diseases of the circulatory system,235.1,226.7,223.6,208.8,202.9,209.3,198.9,196.6,190.4,179.9,182.5
+Spain,Diseases of the digestive system,38.5,38.6,37.5,35.7,34.9,35.9,34.8,34.4,35.7,35.6,34.5
+Spain,Ischaemic heart diseases,70.5,67.8,64.9,60.9,58,58.8,55.2,53.9,51.2,47.2,47.3
+Sweden,"Congenital malformations, deformations and chromosomal abnormalities",2.3,2.2,2.3,2.5,2.6,2.1,2.7,2.9,2.8,,
+Sweden,Intentional self-harm,12,11.6,11.9,12.6,11.7,12,11.3,11.7,12.4,,
+Sweden,Diseases of the respiratory system,45.8,50.9,54.3,53.2,47.9,55.2,52.4,55.3,56.7,,
+Sweden,Ischaemic heart diseases,134.7,126.8,123.6,114.8,108.3,104.4,97.6,92.8,88.3,,
+Sweden,Tuberculosis,0.3,0.4,0.3,0.4,0.3,0.2,0.2,0.2,0.2,,
+Sweden,Assault,1,0.8,0.7,0.8,0.8,1,0.9,1.1,1,,
+Sweden,Neoplasms,213,213.1,213.8,211.1,209.7,210.1,203.9,203.6,196.8,,
+Sweden,Diseases of the circulatory system,318.7,306.4,303.9,289.9,277.7,272.9,263.3,255.1,246,,
+Sweden,Diseases of the digestive system,25.2,24.4,25.6,24.5,25.1,25.4,25.3,24,24,,
+Sweden,Diseases of the nervous system,33.1,32.3,36.1,35.2,35.6,39.4,42.4,44.9,46.6,,
+Sweden,HIV-AIDS,0.1,0.2,0.1,0.2,0.1,0.1,0.1,0.1,0.1,,
+Sweden,Accidents,27.8,27.6,27.3,27.6,28.3,30.3,28.4,28.6,29.8,,
+Switzerland,Diseases of the digestive system,29.3,28.8,29.4,28.2,27.3,26.6,25.8,25.2,24.8,25.6,
+Switzerland,Tuberculosis,0.3,0.3,0.2,0.2,0.1,0.2,0.3,0.2,0.2,0.1,
+Switzerland,Accidents,28.8,28.9,28.7,29.5,28.1,28.3,27,26.5,28.1,25.5,
+Switzerland,Diseases of the respiratory system,43.6,43.4,44.4,45.8,41.6,48.8,42.6,46.9,45.7,44.1,
+Switzerland,"Congenital malformations, deformations and chromosomal abnormalities",3.2,3.3,3.4,3.8,3.6,3.6,3.6,3.3,2.9,3,
+Switzerland,Diseases of the circulatory system,254.6,241.8,243.9,236.6,225,226,211.7,209.8,200.5,189.1,
+Switzerland,Diseases of the nervous system,38.1,37.6,39.4,37.4,36.9,39.2,34.9,36.3,35.1,36.1,
+Switzerland,Assault,0.5,0.5,0.5,0.5,0.4,0.6,0.4,0.3,0.4,0.4,
+Switzerland,Ischaemic heart diseases,96.9,89.3,90.3,85.3,79,77.6,71.9,71.5,67.2,65.2,
+Switzerland,Intentional self-harm,12.3,12.5,12.4,12.6,11.9,12.3,11.5,11.6,11.1,11.1,
+Switzerland,HIV-AIDS,0.5,0.5,0.5,0.4,0.5,0.4,0.2,0.2,0.2,0.2,
+Switzerland,Neoplasms,203.8,203.6,199.8,197.8,194.5,195.5,191,188.4,184.8,179.1,
+Türkiye,Intentional self-harm,2.4,1.8,2.2,2.7,2.3,2.2,2.6,,,4.4,
+Türkiye,HIV-AIDS,0.1,0.1,0.1,0.1,0.1,0.1,0.1,,,0.1,
+Türkiye,Accidents,23.5,23.3,22.4,29.8,30.7,29.9,30.5,,,20.3,
+Türkiye,Diseases of the nervous system,36,37.9,43,44.5,48.7,54.8,56.1,,,49.7,
+Türkiye,Diseases of the circulatory system,402.7,397.7,380.5,432.4,445.8,443.5,445.6,,,383.6,
+Türkiye,Diseases of the digestive system,22.6,23.2,23.4,26,26.2,25.6,25.2,,,22.2,
+Türkiye,Assault,1.5,1.2,1.3,1.7,1.6,1.4,1.8,,,1,
+Türkiye,Diseases of the respiratory system,82.6,101.5,96.6,104.8,117.3,121,131.6,,,137.2,
+Türkiye,Tuberculosis,1.8,1.8,1.5,1.3,1.2,1.2,1.2,,,0.8,
+Türkiye,Ischaemic heart diseases,131,126.4,110.5,159.3,170.3,173.3,175,,,146.1,
+Türkiye,Neoplasms,169,172.6,172.2,184.1,181.8,178.3,177.9,,,159,
+Türkiye,"Congenital malformations, deformations and chromosomal abnormalities",3.8,4.1,4.1,4.6,5.3,5.6,5.3,,,3.6,
+United Kingdom,Diseases of the circulatory system,271.6,237.7,238.2,232.6,220.1,221.9,210.2,205.7,205.4,192.2,196.3
+United Kingdom,Diseases of the digestive system,45.7,43,42.3,41.5,40.7,41.5,41.1,41.2,41.7,39.5,42.6
+United Kingdom,Ischaemic heart diseases,123.2,111.2,109.6,107,99.2,98.6,91.9,90.3,88.2,82.9,83.8
+United Kingdom,Neoplasms,251.5,250.2,251,246.9,244.3,242.2,240.6,236.2,238.7,229.3,227.2
+United Kingdom,Diseases of the nervous system,31.8,31.9,36.1,37.6,39.7,45.6,47.7,51.3,55.2,53.2,58.6
+United Kingdom,Diseases of the respiratory system,114.8,113.1,117.4,120.6,106.6,119,111.8,110.6,116.6,104.7,88.6
+United Kingdom,Accidents,21.9,21.7,21.2,22.3,23.6,24.7,25.1,25.1,27.4,26.6,27.4
+United Kingdom,HIV-AIDS,0.4,0.3,0.4,0.4,0.3,0.3,0.3,0.3,0.2,0.2,0.2
+United Kingdom,Intentional self-harm,6.7,7,7,7.6,7.5,7.6,7.4,7.1,8.1,8.6,8.4
+United Kingdom,Tuberculosis,0.6,0.5,0.5,0.5,0.5,0.5,0.4,0.4,0.4,0.3,0.3
+United Kingdom,"Congenital malformations, deformations and chromosomal abnormalities",3.1,2.9,3,2.8,3.2,3,3.1,2.5,2.4,2.4,2.3
+United Kingdom,Assault,0.3,0.3,0.2,0.2,0.2,0.2,0.2,0.5,0.6,0.5,0.3
+United States,Assault,5.1,5.1,5.2,5,4.9,5.4,5.9,5.9,5.7,5.8,7.4
+United States,Diseases of the respiratory system,89.2,91.2,89.7,93.9,91,92.2,88.9,91,90.3,84.7,82.6
+United States,"Congenital malformations, deformations and chromosomal abnormalities",2.9,2.9,3,2.9,2.9,3,3.1,3,3.1,2.9,2.9
+United States,Tuberculosis,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+United States,Ischaemic heart diseases,140.1,135,132.9,131,126.5,123,120,118.2,115.8,112.2,116.7
+United States,HIV-AIDS,2.8,2.5,2.3,2.3,2.2,2.1,2,1.8,1.7,1.6,1.6
+United States,Accidents,41.1,42.4,42.7,43.5,44.8,47.3,51.6,53.9,52.6,53.8,62
+United States,Intentional self-harm,12.8,13,13.2,13.4,13.8,14,14.2,14.8,15,14.7,14.1
+United States,Diseases of the circulatory system,288.8,281.1,281.6,283.2,280.5,280.7,277.7,277.8,275.6,267.8,279.2
+United States,Neoplasms,220.5,216.6,214.4,213,211.1,204.8,202.8,198.7,194.5,190.4,187.2
+United States,Diseases of the nervous system,51.9,51.9,52.7,54.1,58,64.7,67.5,70.7,72.2,73.7,81.3
+United States,Diseases of the digestive system,33,33.3,33.2,34,34.3,34.4,34.5,34.5,34.6,35,37.8
